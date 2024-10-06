@@ -1,0 +1,11 @@
+{
+    "welcome": "Welcome to ChessGBSW!",
+    "description": "This is where we play chess with all students from our school.",
+    "404": "Page not found",
+    "home": "Home",
+    "play": "Play",
+    "play_with_bot": "Play Bots",
+    "puzzle": "Puzzles",
+    "puzzle_rush": "Puzzle Rush",
+    "setting": "Settings"
+}

@@ -1,0 +1,11 @@
+{
+    "welcome": "Chess.oline : 경소고 Chess 사이트!",
+    "description": "이곳은 우리 학교 전교생과 체스를 두는 곳입니다.",
+    "404": "페이지를 찾을 수 없습니다.",
+    "home": "홈",
+    "play": "플레이",
+    "play_with_bot": "붓과 플레이",
+    "puzzle": "퍼즐",
+    "puzzle_rush": "퍼즐러쉬",
+    "setting": "설정"
+}
